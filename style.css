@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background: linear-gradient(#0394fc 0%, #fa052a 100%);
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: snow;
+	border-radius: 20px;
+}
